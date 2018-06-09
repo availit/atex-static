@@ -1,11 +1,21 @@
 {
-  "name": "atex-static",
+  "name": "ziggy-atex",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./src/js/index.js",
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Avail",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/availit/atex-static.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/availit/atex-static/issues"
+  },
+  "homepage": "https://github.com/availit/atex-static#readme"
 }
